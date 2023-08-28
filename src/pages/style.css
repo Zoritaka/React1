@@ -1,0 +1,8 @@
+body{
+    background-color: antiquewhite;
+}
+.block{
+    border-radius: 30px;
+    border: 2px dotted rgb(134, 122, 99);
+    width: 60%;
+}

@@ -1,8 +1,8 @@
 import React from "react";
-
+import './style.css';
 const MyBand = () => {
     return(
-        <div>
+        <div class='block'>
             <ul>
                 <li>Название группы: Slipknot</li>
                 <li>Участники: Shawn Crahan, Corey Taylor, Mick Thomson,<br/> Craig Jones, Jim Root, Sid Wilson, Chris Fehn, Joey Jordison</li>

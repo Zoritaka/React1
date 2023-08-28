@@ -1,8 +1,8 @@
 import React from "react";
-
+import './style.css';
 const MyRecipe = () => {
     return(
-        <div>
+        <div class='block'>
             <ul>
                 <li>Блины на молоке: традиционный рецепт</li>
                 <li>Продукты: </li>
